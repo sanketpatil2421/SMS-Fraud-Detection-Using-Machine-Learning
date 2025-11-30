@@ -48,13 +48,13 @@ pickle.
 
 # 📂 Project Structure
 SPAMHAM/
-## │── app.py              # Flask Web App (main application)
-## │── server.py           # API server (alternative backend)
-## │── spam.html           # Frontend UI for entering SMS
-## │── spam.csv            # Dataset (SMS Spam Collection)
-## │── model.pkl           # Trained ML classification model
-## │── vectorizer.pkl      # TF-IDF Vectorizer used for text transformation
-## │── TODO.md             # Future improvements or notes
+## │── app.py              // Flask Web App (main application)
+## │── server.py           // API server (alternative backend)
+## │── spam.html           // Frontend UI for entering SMS
+## │── spam.csv            // Dataset (SMS Spam Collection)
+## │── model.pkl           // Trained ML classification model
+## │── vectorizer.pkl      // TF-IDF Vectorizer used for text transformation
+## │── TODO.md             // Future improvements or notes
 
 
 # ▶️ Installation & Running the Project:- 
