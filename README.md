@@ -26,8 +26,7 @@ The app instantly predicts:
 
 
 # 🛠️ Tech Stack
-**Backend:-
-**
+Backend:-
 Python,
 Flask.
 Scikit-learn,
