@@ -58,6 +58,31 @@ SPAMHAM/
 
 
 # ▶️ Installation & Running the Project:- 
+
+1. Clone the Repository
+git clone https://github.com/your-username/SMS-Fraud-Detection-Using-Machine-Learning.git
+cd SMS-Fraud-Detection-Using-Machine-Learning
+
+2. Install Dependencies
+pip install -r requirements.txt
+
+
+If any error occurs:
+
+pip install flask nltk scikit-learn pandas numpy
+
+3. Download NLTK Stopwords
+python -c "import nltk; nltk.download('stopwords')"
+
+4. Run the App
+python app.py
+
+
+Open in browser:
+
+http://127.0.0.1:5000
+
+
 python.app.py
 
 # 👤 Author
