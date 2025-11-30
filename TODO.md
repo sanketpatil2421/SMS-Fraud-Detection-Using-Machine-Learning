@@ -1,0 +1,5 @@
+- [ ] Add HTML elements for risk score display (progress bars for risk and safe scores)
+- [ ] Add CSS for progress bars and fill animations
+- [ ] Update JavaScript to fetch probability, calculate scores, and animate bars
+- [ ] Add animation for result div appearance
+- [ ] Test the functionality by running the server and analyzing a message
