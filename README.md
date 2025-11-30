@@ -14,49 +14,14 @@
 
 ✔ Deployed locally or on cloud platforms
 
-🧠 Machine Learning Workflow
+🖥️ Web App (Frontend)
+User Inputs SMS text
 
-Dataset Loading
-Public SMS Spam Collection dataset.
+The app instantly predicts:
 
-Text Preprocessing
+✔ Ham (Safe Message)
 
-Lowercasing
-
-Removing punctuation
-
-Removing stopwords
-
-Lemmatization (optional)
-
-Feature Extraction
-
-TF-IDF Vectorization
-
-Model Training
-
-Naïve Bayes
-
-Logistic Regression
-
-SVM
-(Select best model based on accuracy/F1-score)
-
-Model Saving
-
-spam_model.pkl
-vectorizer.pkl
-
-
-App Integration
-
-Load model
-
-Predict spam/ham
-
-Display result on UI
-
-
+❌ Spam (Fraudulent SMS)
 
 
 📄 Requirements
