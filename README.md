@@ -79,7 +79,8 @@ python -c "import nltk; nltk.download('stopwords')"
 
 5. Run the App
    
-python app.py
+ 
+ cd /workspaces/SMS-Fraud-Detection-Using-Machine-Learning && python app.py
 
 
 6. Open in browser:
